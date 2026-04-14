@@ -93,6 +93,6 @@ Alguns arquivos já traziam materiais configurados internamente, aplicando textu
 
 ## 👤 Autor
 
-**Pedro V.** · [@DiFalls](https://github.com/DiFalls)
+**Pedro Victor** · [@DiFalls](https://github.com/DiFalls)
 
 🔗 [github.com/DiFalls/WEB3](https://github.com/DiFalls/WEB3)
